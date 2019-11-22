@@ -1,0 +1,6 @@
+﻿  GraphDlg.cpp
+  RobotExp_4Dlg.cpp
+c:\users\jsh\source\repos\robotexp_4\robotexp_4\robotexp_4\robotexp_4dlg.cpp(251): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jsh\source\repos\robotexp_4\robotexp_4\robotexp_4\robotexp_4dlg.cpp(560): warning C4101: 'ode_data' :참조되지 않은 지역 변수입니다.
+c:\users\jsh\source\repos\robotexp_4\robotexp_4\robotexp_4\robotexp_4dlg.cpp(559): warning C4101: 'motor_data' :참조되지 않은 지역 변수입니다.
+  RobotExp_4.vcxproj -> C:\Users\JSH\source\repos\RobotExp_4\RobotExp_4\Debug\RobotExp_4.exe
